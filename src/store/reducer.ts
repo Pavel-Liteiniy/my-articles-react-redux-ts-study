@@ -7,11 +7,6 @@ const initialState: ArticleState = {
 			title: 'Post 1',
 			body: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus assumenda dolor sed temporibus aliquam, unde aut hic, blanditiis, porro odit fugiat aspernatur recusandae exercitationem impedit perspiciatis? Quos aliquid illo architecto?',
 		},
-		{
-			id: 2,
-			title: 'Post 2',
-			body: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus assumenda dolor sed temporibus aliquam, unde aut hic, blanditiis, porro odit fugiat aspernatur recusandae exercitationem impedit perspiciatis? Quos aliquid illo architecto?',
-		},
 	],
 };
 
