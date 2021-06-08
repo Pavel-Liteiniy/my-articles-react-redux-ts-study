@@ -1,3 +1,11 @@
+# My Articles ( [live demo]() )
+## React Application
+
+Учебный проект по изучению React, Redux и TypeScript.
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
